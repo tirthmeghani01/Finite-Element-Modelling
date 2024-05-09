@@ -1,0 +1,1 @@
+These assignments were completed in the EE4375 course at Delft University of Technology, taught by Dr. D.J.P. Lahaye and encompass the Finite Difference Method (FDM) and Finite Element Method (FEM) for both one-dimensional and two-dimensional problems.
